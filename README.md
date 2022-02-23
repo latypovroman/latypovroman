@@ -13,7 +13,6 @@
 - JS
 - Webpack
 - Git
-- REST API
 
 ### Планы на дальнейшее обучение:
 - React
