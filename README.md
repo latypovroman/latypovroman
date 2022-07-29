@@ -2,10 +2,12 @@
 В данный момент я обучаюсь магии фронтенда и создаю учебный проект Место.
 
 Цели на ближайшее будущее:
+
+- ~~Создать собственное приложение на JS~~
 - Поучаствовать в open-source проекте
-- Создать собственное приложение на JS
+- Увеличить стек
 - Стараться ежедневно уделять время обучению
-- Сменить работу
+- Сделать программирование своей основной профессией
 
 ## Мой стек:
 - <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24"></code>HTML
@@ -14,8 +16,9 @@
 - <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" height="24"></code>Git
 - <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="24"></code>React
 - <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="24"></code>Webpack
-
+- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" height="24"></code>Express
+- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="24"></code>MongoDB
 
 ### Планы на дальнейшее обучение:
-
-- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="24"></code>Node.js
+- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="24"></code>Typescript
+- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" height="24"></code>Redux
